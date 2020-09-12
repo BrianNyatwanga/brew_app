@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "966889640810",
+    "firebase_url": "https://brew-crew-a6c31.firebaseio.com",
+    "project_id": "brew-crew-a6c31",
+    "storage_bucket": "brew-crew-a6c31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966889640810:android:31ce85214160e1bf768b13",
+        "android_client_info": {
+          "package_name": "com.terahertz.brew_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966889640810-qtsbfudtt5nhr44kl0hpbo3a3ntc0k07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.terahertz.brew_app",
+            "certificate_hash": "f2504f673902a1e05b2f167cb0e7fbe42e0a0230"
+          }
+        },
+        {
+          "client_id": "966889640810-df5699pq40ljn5sg2ce6g9j7e5nd2717.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyQft1GcUwRgP6YON3NQfdIRZUtfPXkxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966889640810-df5699pq40ljn5sg2ce6g9j7e5nd2717.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
